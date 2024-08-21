@@ -3,6 +3,7 @@
 
 #include <pthread.h>
 #include <x264.h>
+#include <cstring>
 
 class VideoChannel {
 
